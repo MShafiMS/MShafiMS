@@ -38,7 +38,7 @@ I am Muhammad Shafi. I am a Front End Developer based in Bangladesh. I describe 
 <div>
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mshafims&hide_border=true&theme=radical" alt="mshafims" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge&hide_border=true&theme=radical" alt="" /></a> </p>
   
   </div>
 
