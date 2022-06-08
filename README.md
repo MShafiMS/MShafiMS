@@ -35,14 +35,16 @@ I am Muhammad Shafi. I am a Front End Developer based in Bangladesh. I describe 
 
 ## 🏆 Github Status
 
+<div>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mshafims" alt="mshafims" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+  
+  </div>
+
 <img  src="https://github-readme-stats.vercel.app/api?username=mshafims&show_icons=true&locale=en" width="45%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=mshafims&" width="45%" >
 
 <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mshafims&show_icons=true&locale=en&layout=compact" alt="mshafims" /></p>
 
-<br />
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mshafims" alt="mshafims" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
