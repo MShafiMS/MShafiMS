@@ -26,7 +26,8 @@ I am Muhammad Shafi. I am a Front End Developer based in Bangladesh. I describe 
 <a href="https://stackoverflow.com/users/18770693" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18770693" height="30" width="40" /></a>
 <a href="https://fb.com/ms.muhammadshafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ms.muhammadshafi" height="30" width="40" /></a>
 <a href="https://instagram.com/ms_shafi75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ms_shafi75" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/muhammad mhafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="muhammad mhafi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCr4-eFtC_XL0CiPH59pAidQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="muhammad mhafi" height="30" width="40" /></a>
+<a href="https://muhammad-shafi-portfolio.netlify.app/" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg](https://cdn-icons.flaticon.com/png/128/3059/premium/3059997.png?token=exp=1654714073~hmac=93202302845e86703c756bfcc3293f02)" alt="muhammad mhafi" height="30" width="40" /></a>
 </p>
 
 ## 👨‍💻 Languages and Tools
