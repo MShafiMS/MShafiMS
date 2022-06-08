@@ -43,7 +43,7 @@ I am Muhammad Shafi. I am a Front End Developer based in Bangladesh. I describe 
   </div>
 
 <img  src="https://github-readme-stats.vercel.app/api?username=mshafims&show_icons=true&hide_border=true&theme=radical" width="45%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=mshafims&theme=radical" width="45%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=mshafims&hide_border=true&theme=radical" width="45%" >
 
 <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mshafims&show_icons=true&hide_border=true&theme=radical&layout=compact" alt="mshafims" /></p>
