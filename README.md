@@ -27,7 +27,7 @@ I am Muhammad Shafi. I am a Front End Developer based in Bangladesh. I describe 
 <a href="https://fb.com/ms.muhammadshafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ms.muhammadshafi" height="30" width="40" /></a>
 <a href="https://instagram.com/ms_shafi75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ms_shafi75" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCr4-eFtC_XL0CiPH59pAidQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="muhammad mhafi" height="30" width="40" /></a>
-<a href="https://muhammad-shafi-portfolio.netlify.app/" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3308/premium/3308395.png?token=exp=1654714212~hmac=4b67ff1cfdb0cd38abcd6785e5d4ba83" alt="muhammad mhafi" height="30" width="40" /></a>
+<a href="https://muhammad-shafi-portfolio.netlify.app/" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3059/premium/3059997.png?token=exp=1654714212~hmac=bc3e39039b8060daa6fe27e4d2139d20" alt="muhammad mhafi" height="30" width="40" /></a>
 </p>
 
 ## 👨‍💻 Languages and Tools
