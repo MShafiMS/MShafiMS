@@ -6,11 +6,12 @@
 
 I am Muhammad Shafi. I am a Front End Developer based in Bangladesh. I describe myself as a passionate developer who loves coding, Open Source, and the web platform, passion for responsive website design. Would like to build a successful career in the field of web development.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mshafims&label=Profile%20views&color=0e75b6&style=flat" alt="mshafims" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mshafims&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mshafims" alt="mshafims" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+![Age](https://img.shields.io/badge/age-22-blueviolet)
+![Focus](https://img.shields.io/badge/focus-FullStack-critical)
+![Living](https://img.shields.io/badge/living-Chattogram-ff69b4)
+![Projects](https://img.shields.io/badge/projects-12-important)
 
 - 🔭 I’m currently working on [a manufacturer site](https://tools-manufacturer-f4df9.web.app/)
 
@@ -39,3 +40,9 @@ I am Muhammad Shafi. I am a Front End Developer based in Bangladesh. I describe 
 
 <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mshafims&show_icons=true&locale=en&layout=compact" alt="mshafims" /></p>
+
+<br />
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mshafims" alt="mshafims" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
