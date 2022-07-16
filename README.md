@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Muhammad Shafi
 ### I am a Front-End Developer
-![I am a Front-End Developer](https://media-exp2.licdn.com/dms/image/C5616AQFrEhBvrOSb0w/profile-displaybackgroundimage-shrink_200_800/0/1654716524214?e=1660176000&v=beta&t=xGny7TnalxqUm6Z01zKT29gw6Vzh-aLiMEIG3tAJ5h8)
+![I am a Front-End Developer](https://media-exp2.licdn.com/dms/image/C4D16AQGAbrHlsfoIPA/profile-displaybackgroundimage-shrink_200_800/0/1656517233868?e=1663200000&v=beta&t=UFlgi6hG4y72k_8uF4pfIYbces9EVWuoqAftC4xrImA)
 
 ## 🏋 About Me
 
