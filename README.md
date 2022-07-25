@@ -4,7 +4,7 @@
 
 ## 🏋 About Me
 
-I am Muhammad Shafi. I am a Front End Developer based in Bangladesh. I describe myself as a passionate developer who loves coding, Open Source, and the web platform, passion for responsive website design. Would like to build a successful career in the field of web development.
+I am a Jr. Front-End Developer who has a proven ability to work on multiple projects simultaneously. Experience building complete web applications with backend API systems. A positive driven and confident person is suitable for learning new technology.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mshafims&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
