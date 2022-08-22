@@ -15,7 +15,7 @@ I am a Jr. Front-End Developer who has a proven ability to work on multiple proj
 
 - 🔭 I’m currently working on [a manufacturer site](https://tools-manufacturer-f4df9.web.app/)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Redux**
 
 - 💬 Ask me about **React, Node, Express and MongoDB**
 
