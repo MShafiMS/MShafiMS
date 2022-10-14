@@ -6,7 +6,7 @@
 
 I am a Jr. Front-End Developer who has a proven ability to work on multiple projects simultaneously. Experience building complete web applications with backend API systems. A positive driven and confident person is suitable for learning new technology.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mshafims&label=Profile%20views&color=0e75b6&style=flat"/> </p>
+<p align="left"> <img src="https://i.ibb.co/MBgW3b9/White-Minimalist-Profile-Linked-In-Banner.png"/> </p>
 
 ![Age](https://img.shields.io/badge/age-22-blueviolet)
 ![Focus](https://img.shields.io/badge/focus-FullStack-critical)
