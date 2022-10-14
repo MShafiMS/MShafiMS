@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Muhammad Shafi
 ### I am a Front-End Developer
-![I am a Front-End Developer](https://i.ibb.co/mqkGBTy/39-email-signature.jpg)
+![I am a Front-End Developer](https://i.ibb.co/MBgW3b9/White-Minimalist-Profile-Linked-In-Banner.png)
 
 ## 🏋 About Me
 
