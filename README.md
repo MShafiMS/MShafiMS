@@ -27,7 +27,7 @@ I am a developer with a passion for optimizing both frontend and backend compone
 <a href="https://fb.com/ms.muhammadshafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ms.muhammadshafi" height="30" width="40" /></a>
 <a href="https://instagram.com/ms_shafi75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ms_shafi75" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCr4-eFtC_XL0CiPH59pAidQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="muhammad mhafi" height="30" width="40" /></a>
-<a href="https://muhammad-shafi-portfolio.netlify.app/" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3059/premium/3059480.png?token=exp=1654714340~hmac=9134d8067bb4853557b5b1078fff15a7" alt="muhammad mhafi" height="30" width="40" /></a>
+<a href="https://ms-muhammadshafi.web.app/" target="blank"><img align="center" src="https://ms-muhammadshafi.web.app/logo.svg" alt="muhammad mhafi" height="30" width="40" /></a>
 </p>
 
 ## 👨‍💻 Languages and Tools
