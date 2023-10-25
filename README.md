@@ -1,21 +1,21 @@
 ## Hi 👋, I'm Muhammad Shafi
-### I am a Front-End Developer
+### I am a Full Stack Developer
 ![I am a Front-End Developer](https://i.ibb.co/MBgW3b9/White-Minimalist-Profile-Linked-In-Banner.png)
 
 ## 🏋 About Me
 
-I am a Jr. Front-End Developer who has a proven ability to work on multiple projects simultaneously. Experience building complete web applications with backend API systems. A positive driven and confident person is suitable for learning new technology.
+I am a developer with a passion for optimizing both frontend and backend components, committed to delivering exceptional web experiences.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mshafims&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
-![Age](https://img.shields.io/badge/age-22-blueviolet)
+![Age](https://img.shields.io/badge/age-23-blueviolet)
 ![Focus](https://img.shields.io/badge/focus-FullStack-critical)
 ![Living](https://img.shields.io/badge/living-Chattogram-ff69b4)
 ![Projects](https://img.shields.io/badge/projects-12-important)
 
-- 🔭 I’m currently working on [a manufacturer site](https://tools-manufacturer-f4df9.web.app/)
+- 🔭 I’m currently working at [Stamurai](https://stamurai.com/)
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Nest.Js**
 
 - 💬 Ask me about **React, Node, Express and MongoDB**
 
